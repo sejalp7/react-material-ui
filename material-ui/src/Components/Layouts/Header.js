@@ -7,8 +7,8 @@ export default props =>
             <Toolbar>
                 <IconButton edge="start" color="inherit" aria-label="menu">
                 </IconButton>
-                <Typography variant="subtitle1"  color="inherit">
-                  Exercise Database
+                <Typography variant="h5"  color="inherit">
+                  My Medium
                 </Typography>
             </Toolbar>
             </AppBar>       
